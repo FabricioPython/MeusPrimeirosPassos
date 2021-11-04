@@ -1,3 +1,10 @@
+
+# Código em manutenção.
+
+
+
+
+
 import requests
 import json
 import time
